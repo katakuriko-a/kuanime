@@ -73,7 +73,7 @@ animation: move 2s;
   border: 8px solid #ccc;
   border-right-color: transparent;
   border-radius: 50%;
-  /* animation: spin .8s infinite linear; */
+  animation: spin .8s infinite linear;
 }
 
 @keyframes spin {
